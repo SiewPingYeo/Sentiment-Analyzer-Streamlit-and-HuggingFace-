@@ -6,7 +6,7 @@ Streamlit provides a platform for the model to be deployed and the code for depl
 
 ## Output
 
-You may access the deployed sentimental analyzer app here [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/SiewPingYeo/Sentiment-Analyzer-Streamlit-and-HuggingFace/yourApp/)
+You may access the deployed sentimental analyzer app here [![Open in Streamlit](https://share.streamlit.io/siewpingyeo/sentiment-analyzer-streamlit-and-huggingface-/main/sentiment_analyser.py)](https://share.streamlit.io/SiewPingYeo/Sentiment-Analyzer-Streamlit-and-HuggingFace/yourApp/)
 
 ## Libraries used 
 1. Transformers 4.11.3
