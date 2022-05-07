@@ -9,9 +9,6 @@ import re
 import pandas as pd 
 import numpy as np 
 
-streamlit==1.7.0
-torch==1.11.0
-transformers==4.11.3
 
 # Create user interface on Streamlit
 st.title('Sentiment Analyser App')
