@@ -3,6 +3,7 @@
 This project aims to create a sentiment analyzer app using Streamlit and BERT model from HuggingFace. 
 The sentiment analyzer can be used to classify the text inputs from users into Negative, Neutral and Positive sentiments. 
 Streamlit provides a platform for the model to be deployed and the code for deploying the model on Streamlit can be found in sentiment_analyser.py file, while the code to utilise the BERT model from Hugging Face can be found in the Jupyter Notebook titled- Sentiment Analysis of TripAdvisor Reviews with BERT. 
+The pre-trained BERT model for sentiment analysis is suitable for unlabeled data, where supervised machine learning cannot be performed. 
 
 ## Output
 
